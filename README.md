@@ -1,1 +1,7 @@
-# jairic21.github.io
+# Graphic Designer
+
+### Educations
+EEE, CPE
+
+### Work experience
+test
