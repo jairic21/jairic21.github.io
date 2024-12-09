@@ -1,7 +1,3 @@
-# Graphic Designer
+You have reached Rick's about page.
 
-### Educations
-EEE, CPE
-
-### Work experience
-test
+Here's my [email](kip.jairorick@gmail.com) address.
